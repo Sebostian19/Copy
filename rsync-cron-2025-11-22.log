@@ -1,0 +1,67 @@
+sending incremental file list
+./
+every_day_backup.sh
+            760 100%    0.00kB/s    0:00:00              760 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=32/34)
+Copy/
+Copy/crontab
+            979 100%  956.05kB/s    0:00:00              979 100%  956.05kB/s    0:00:00 (xfr#2, to-chk=21/34)
+Copy/every_day_backup.sh
+            760 100%  742.19kB/s    0:00:00              760 100%  742.19kB/s    0:00:00 (xfr#3, to-chk=20/34)
+Copy/Снимок экрана от 2025-11-22 09-24-26.png
+         32,768  15%   31.25MB/s    0:00:00          209,751 100%  200.03MB/s    0:00:00 (xfr#4, to-chk=19/34)
+Copy/Снимок экрана от 2025-11-22 09-26-28.png
+         32,768  15%   31.25MB/s    0:00:00          216,570 100%  206.54MB/s    0:00:00 (xfr#5, to-chk=18/34)
+Copy/Снимок экрана от 2025-11-22 10-02-34.png
+         32,768   6%   15.62MB/s    0:00:00          495,539 100%  236.29MB/s    0:00:00 (xfr#6, to-chk=17/34)
+snap/
+snap/firefox/
+snap/firefox/current -> 7355
+snap/firefox/7355/
+snap/firefox/common/
+snap/snapd-desktop-integration/
+snap/snapd-desktop-integration/current -> 315
+snap/snapd-desktop-integration/315/
+snap/snapd-desktop-integration/315/Desktop/
+snap/snapd-desktop-integration/315/Documents/
+snap/snapd-desktop-integration/315/Downloads/
+snap/snapd-desktop-integration/315/Music/
+snap/snapd-desktop-integration/315/Pictures/
+snap/snapd-desktop-integration/315/Public/
+snap/snapd-desktop-integration/315/Templates/
+snap/snapd-desktop-integration/315/Videos/
+snap/snapd-desktop-integration/common/
+Видео/
+Документы/
+Загрузки/
+Изображения/
+Изображения/Снимки экрана/
+Музыка/
+Общедоступные/
+Рабочий стол/
+Шаблоны/
+
+sent 926,277 bytes  received 247 bytes  1,853,048.00 bytes/sec
+total size is 924,366  speedup is 1.00
+[32m----- | 2025-11-22 | 10:55:01 | Backup completed Successfully! | -----[0m
+sending incremental file list
+
+sent 1,356 bytes  received 37 bytes  2,786.00 bytes/sec
+total size is 924,366  speedup is 663.58
+[32m----- | 2025-11-22 | 10:56:01 | Backup completed Successfully! | -----[0m
+sending incremental file list
+
+sent 1,356 bytes  received 37 bytes  2,786.00 bytes/sec
+total size is 924,366  speedup is 663.58
+[32m----- | 2025-11-22 | 10:57:01 | Backup completed Successfully! | -----[0m
+sending incremental file list
+./
+test/
+
+sent 1,394 bytes  received 48 bytes  2,884.00 bytes/sec
+total size is 924,366  speedup is 641.03
+[32m----- | 2025-11-22 | 10:58:01 | Backup completed Successfully! | -----[0m
+sending incremental file list
+
+sent 1,384 bytes  received 38 bytes  2,844.00 bytes/sec
+total size is 924,366  speedup is 650.05
+[32m----- | 2025-11-22 | 10:59:02 | Backup completed Successfully! | -----[0m
