@@ -10,7 +10,9 @@
 - На проверку направить скриншот с командой и результатом ее выполнения
 
 ### Решение:
+
 ### Скриншот с командой и результатом ее выполнения
+
 ![](https://github.com/Sebostian19/Copy/blob/main/1.png)
 
 ### Задание 2
@@ -22,10 +24,14 @@
 
 ### Решение:
 [Файл Crontab](https://github.com/Sebostian19/Copy/blob/main/crontab)
+
 ![](https://github.com/Sebostian19/Copy/blob/main/1.png)
+
 ![](https://github.com/Sebostian19/Copy/blob/main/2.png)
+
 ### Результат работы утилиты:
 
-[](https://github.com/Sebostian19/Copy/blob/main/crontab)
+[](https://github.com/Sebostian19/Copy/blob/main/4.png)
+[](https://github.com/Sebostian19/Copy/blob/main/5.png)
 
 
