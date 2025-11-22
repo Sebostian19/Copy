@@ -40,5 +40,5 @@
 
 ![](https://github.com/Sebostian19/Copy/blob/main/5.png)
 
-### Файл лога: [](https://github.com/Sebostian19/Copy/blob/main/rsync-cron-2025-11-22.log)
+### Файл лога: [rsync-cron-2025-11-22.log](https://github.com/Sebostian19/Copy/blob/main/rsync-cron-2025-11-22.log)
 
