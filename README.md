@@ -31,7 +31,7 @@
 
 ### Результат работы утилиты:
 
-[](https://github.com/Sebostian19/Copy/blob/main/4.png)
-[](https://github.com/Sebostian19/Copy/blob/main/5.png)
+![](https://github.com/Sebostian19/Copy/blob/main/4.png)
+![](https://github.com/Sebostian19/Copy/blob/main/5.png)
 
 
