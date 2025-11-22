@@ -23,7 +23,7 @@
 - На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
 ### Решение:
-[Файл Crontab](https://github.com/Sebostian19/Copy/blob/main/crontab)
+Файл [Crontab](https://github.com/Sebostian19/Copy/blob/main/crontab)
 
 ![](https://github.com/Sebostian19/Copy/blob/main/1.png)
 
