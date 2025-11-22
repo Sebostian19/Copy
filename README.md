@@ -14,6 +14,7 @@
 ### Скриншот с командой и результатом ее выполнения
 
 ![](https://github.com/Sebostian19/Copy/blob/main/1.png)
+![](https://github.com/Sebostian19/Copy/blob/main/2.png)
 
 ### Задание 2
 - Написать скрипт и настроить задачу на регулярное резервное копирование домашней директории пользователя с помощью rsync и cron.
@@ -25,13 +26,19 @@
 ### Решение:
 Файл [Crontab](https://github.com/Sebostian19/Copy/blob/main/crontab)
 
-![](https://github.com/Sebostian19/Copy/blob/main/1.png)
-
-![](https://github.com/Sebostian19/Copy/blob/main/2.png)
+![](https://github.com/Sebostian19/Copy/blob/main/3.png)
 
 ### Результат работы утилиты:
 
 ![](https://github.com/Sebostian19/Copy/blob/main/4.png)
+
 ![](https://github.com/Sebostian19/Copy/blob/main/5.png)
 
+
+
+![](https://github.com/Sebostian19/Copy/blob/main/4.png)
+
+![](https://github.com/Sebostian19/Copy/blob/main/5.png)
+
+### Файл лога: [](https://github.com/Sebostian19/Copy/blob/main/rsync-cron-2025-11-22.log)
 
